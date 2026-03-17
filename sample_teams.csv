@@ -1,0 +1,3 @@
+team_name,repo_url,member_handles
+Team Alpha,https://github.com/torvalds/linux,"torvalds,gregkh"
+Team Beta,https://github.com/django/django,"adriennedomingus,timgraham"

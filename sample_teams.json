@@ -1,0 +1,12 @@
+[
+  {
+    "team_name": "Team Alpha",
+    "repo_url": "https://github.com/torvalds/linux",
+    "member_handles": ["torvalds", "gregkh"]
+  },
+  {
+    "team_name": "Team Beta",
+    "repo_url": "https://github.com/django/django",
+    "member_handles": ["adriennedomingus", "timgraham"]
+  }
+]
